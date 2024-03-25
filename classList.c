@@ -1,5 +1,3 @@
-// Classroom of the Elite: Class D Student Database
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
