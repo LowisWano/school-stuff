@@ -20,6 +20,7 @@ int main(void){
     insertLast(&head, 'A');
     insertLast(&head, 'B');
     insertLast(&head, 'A');
+    // hello there 
     
     deleteAllElements(&head, 'B');
 
